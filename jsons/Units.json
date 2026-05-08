@@ -3,15 +3,13 @@
 		"name": "Phasers",
 		"unitType": "Ranged",
 		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"replaces": "Worker",
 		"movement": 200,
 		"strength": 9000,
 		"rangedStrength": 3600,
 		"range": 200,
 		"cost": 5,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Gold",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"requiredTech": "Agriculture",
+				"attackSound": "phasers"
 	}
 ]
