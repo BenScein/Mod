@@ -4,10 +4,10 @@
 		"unitType": "Ranged",
 		"uniqueTo": "Aliens",
 		"replaces": "Worker",
-		"movement": 200,
+		"movement": 20,
 		"strength": 9000,
 		"rangedStrength": 3600,
-		"range": 200,
+		"range": 20,
 		"cost": 5,
 		"requiredTech": "Agriculture",
 				"attackSound": "phasers"
